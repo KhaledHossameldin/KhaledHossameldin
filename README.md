@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Khaled from Egypt<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning Full-Stack Development<br>- ⚡ In my free time I listen to music or go outside</p>
+<p align="left">I'm Khaled from Egypt<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning Full-Stack Development<br>- ⚡ In my free time I listen to music or hangout</p>
 
 ###
 
