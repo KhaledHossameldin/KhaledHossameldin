@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Khaled from Egypt<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently improving at Flutter Development and learning iOS Development<br>- ⚡ In my free time I listen to music or hangout</p>
+<p align="left">I'm Khaled from Egypt<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently improving at Flutter Development and learning DevOps<br>- ⚡ In my free time I listen to music or hangout</p>
 
 ###
 
