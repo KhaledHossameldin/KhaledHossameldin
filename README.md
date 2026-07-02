@@ -1,18 +1,59 @@
-# 💫 About Me:
-🔭 I’m currently working on mobile app development and improving delivery pipelines<br>👯 I’m looking to collaborate on mobile projects and beginner-friendly DevOps setups<br>🤝 I’m looking for help with Docker, Kubernetes, and CI/CD best practices<br>🌱 I’m currently learning DevOps tools, cloud platforms, and automation<br>💬 Ask me about mobile architecture, UI/UX, and app optimization<br>⚡ Fun fact, I enjoy automating anything I can - even my coffee routine
+<!--
+  GitHub Profile README  →  paste into the repo:  KhaledHossameldin/KhaledHossameldin  (file: README.md)
+  ------------------------------------------------------------------------------------------------------
+  BEFORE PUBLISHING, do 3 things:
+    1. VERIFY every number in "Selected impact" — swap in current, defensible figures.
+    2. Uncomment the Portfolio badge once khaledhossameldin.com is live.
+    3. Delete the "Learning / lab" line if you'd rather not flag it (kept for honest positioning — your call).
+-->
 
+<h1 align="center">Khaled Hossameldin</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Khaled.Hossameldin.Sadek/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khaledhossameldin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khaled-hossameldin-6207a3a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khaled-hossam@outlook.com) 
+<p align="center">
+  <b>Senior Mobile Engineer · Flutter (5+ yrs) → Platform / DevOps</b><br/>
+  I build production mobile apps <i>and</i> the CI/CD &amp; cloud infrastructure that ship them.
+</p>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KhaledHossameldin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KhaledHossameldin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledHossameldin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/khaled-hossameldin-6207a3a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://pub.dev/packages/telephony_sms"><img src="https://img.shields.io/badge/pub.dev-published_plugin-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev plugin"/></a>
+  <a href="mailto:khaled-hossam@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+  <!-- Uncomment when live:
+  <a href="https://khaledhossameldin.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  -->
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### What I do
+
+- **Mobile** — 5+ years shipping Flutter/Dart apps to the App Store &amp; Play Store. Clean architecture, disciplined state management, high test coverage.
+- **Delivery** — multi-flavor CI/CD with **GitHub Actions + Fastlane**: signed builds, automated store releases, zero-touch deploys.
+- **Cloud / IaC** — **AWS + Terraform + Docker**: static sites on S3/CloudFront, infra as code, reproducible pipelines.
+- **Published** — `telephony_sms` on pub.dev · peer-reviewed paper (Springer).
+
+<!-- VERIFY these before publishing -->
+### Selected impact
+
+- ⚡ Cut app load time **~50%** on a production Flutter app
+- 📲 Shipped an app to **40K+** downloads
+- ✅ Drove **80%+** test coverage across core modules
+- 📦 Authored &amp; published the **telephony_sms** Flutter plugin (pub.dev)
+
+---
+
+### Tech
+
+**Mobile** &nbsp;Flutter · Dart
+**CI/CD** &nbsp;GitHub Actions · Fastlane · Jenkins
+**Cloud &amp; IaC** &nbsp;AWS · Terraform · Docker
+**Languages** &nbsp;Dart · Python · Go · Bash
+**Learning / lab** &nbsp;Kubernetes · Ansible · ArgoCD
+
+---
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KhaledHossameldin&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledHossameldin&theme=dark&hide_border=true&layout=compact" alt="Top languages"/>
+</div>
