@@ -1,19 +1,8 @@
-<!--
-  GitHub Profile README v4  →  repo: KhaledHossameldin/KhaledHossameldin  (README.md)
-  ---------------------------------------------------------------------------------
-  Before publishing:
-    1. VERIFY every number in "Selected impact" — swap in current, defensible figures.
-    2. Uncomment the Portfolio badge + khaledhossameldin.com link once the site is live.
-  Notes:
-    - Header is an animated SVG (readme-typing-svg, third-party). Alt text carries the message if it fails.
-    - Skill badges degrade gracefully: if any logo slug is off, the badge label text still shows.
--->
-
 <h1 align="center">Khaled Hossameldin</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khaled-hossameldin-6207a3a6/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=700&height=55&lines=Senior+Mobile+Engineer+-+Flutter+(5%2B+yrs);Building+toward+Platform+and+DevOps;Ships+the+apps+-+and+the+pipelines+that+deliver+them" alt="Senior Mobile Engineer, Flutter 5+ yrs, building toward Platform / DevOps"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=680&height=55&lines=Senior+Mobile+Engineer+-+Flutter+(5%2B+yrs);Building+toward+Platform+and+DevOps;Ships+the+apps+-+and+the+pipelines+that+deliver+them" alt="Senior Mobile Engineer, Flutter 5+ yrs, building toward Platform / DevOps"/>
   </a>
 </p>
 
@@ -25,9 +14,7 @@
   <a href="https://www.linkedin.com/in/khaled-hossameldin-6207a3a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://pub.dev/packages/telephony_sms"><img src="https://img.shields.io/badge/pub.dev-published_plugin-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev plugin"/></a>
   <a href="mailto:khaled@khaledhossameldin.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logoColor=white" alt="Email"/></a>
-  <!-- Uncomment when live:
-  <a href="https://khaledhossameldin.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  -->
+  <a href="https://khaledhossameldin.com"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -39,7 +26,6 @@
 - **Cloud / IaC** — **AWS + Terraform + Docker**: static sites on S3/CloudFront, infrastructure as code, reproducible pipelines.
 - **Published** — `telephony_sms` on pub.dev · peer-reviewed paper (Springer).
 
-<!-- VERIFY these before publishing -->
 ### Selected impact
 
 - ⚡ Cut app load time **~50%** on a production Flutter app
@@ -49,7 +35,7 @@
 
 ### Currently
 
-- 🚀 Building **khaledhossameldin.com** — Next.js 14 · TypeScript · Tailwind, shipped to **AWS** (S3/CloudFront) via **Terraform** + **GitHub Actions**. The site is its own CI/CD + IaC exhibit.
+- 🚀 Shipped **[khaledhossameldin.com](https://khaledhossameldin.com)** — Next.js 16 · TypeScript · Tailwind on **AWS** (S3/CloudFront) via **Terraform** + keyless **OIDC GitHub Actions**. Live, and its own CI/CD + IaC exhibit.
 - 🧪 Deepening **Kubernetes** + **GitOps** (ArgoCD · Helm) in a home lab.
 
 ---
