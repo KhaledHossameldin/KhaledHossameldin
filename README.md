@@ -1,10 +1,9 @@
 <!--
-  GitHub Profile README  →  paste into the repo:  KhaledHossameldin/KhaledHossameldin  (file: README.md)
-  ------------------------------------------------------------------------------------------------------
-  BEFORE PUBLISHING, do 3 things:
+  GitHub Profile README v2  →  repo: KhaledHossameldin/KhaledHossameldin  (README.md)
+  ---------------------------------------------------------------------------------
+  Two things before publishing:
     1. VERIFY every number in "Selected impact" — swap in current, defensible figures.
-    2. Uncomment the Portfolio badge once khaledhossameldin.com is live.
-    3. Delete the "Learning / lab" line if you'd rather not flag it (kept for honest positioning — your call).
+    2. Uncomment the Portfolio badge + the khaledhossameldin.com link once the site is live.
 -->
 
 <h1 align="center">Khaled Hossameldin</h1>
@@ -29,7 +28,7 @@
 
 - **Mobile** — 5+ years shipping Flutter/Dart apps to the App Store &amp; Play Store. Clean architecture, disciplined state management, high test coverage.
 - **Delivery** — multi-flavor CI/CD with **GitHub Actions + Fastlane**: signed builds, automated store releases, zero-touch deploys.
-- **Cloud / IaC** — **AWS + Terraform + Docker**: static sites on S3/CloudFront, infra as code, reproducible pipelines.
+- **Cloud / IaC** — **AWS + Terraform + Docker**: static sites on S3/CloudFront, infrastructure as code, reproducible pipelines.
 - **Published** — `telephony_sms` on pub.dev · peer-reviewed paper (Springer).
 
 <!-- VERIFY these before publishing -->
@@ -40,6 +39,11 @@
 - ✅ Drove **80%+** test coverage across core modules
 - 📦 Authored &amp; published the **telephony_sms** Flutter plugin (pub.dev)
 
+### Currently
+
+- 🚀 Building **khaledhossameldin.com** — Next.js 14 · TypeScript · Tailwind, shipped to **AWS** (S3/CloudFront) via **Terraform** + **GitHub Actions**. The site is its own CI/CD + IaC exhibit.
+- 🧪 Deepening **Kubernetes** + **GitOps** (ArgoCD · Helm) in a home lab.
+
 ---
 
 ### Tech
@@ -48,12 +52,3 @@
 **CI/CD** &nbsp;GitHub Actions · Fastlane · Jenkins
 **Cloud &amp; IaC** &nbsp;AWS · Terraform · Docker
 **Languages** &nbsp;Dart · Python · Go · Bash
-**Learning / lab** &nbsp;Kubernetes · Ansible · ArgoCD
-
----
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KhaledHossameldin&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledHossameldin&theme=dark&hide_border=true&layout=compact" alt="Top languages"/>
-</div>
