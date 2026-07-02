@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/khaled-hossameldin-6207a3a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://pub.dev/packages/telephony_sms"><img src="https://img.shields.io/badge/pub.dev-published_plugin-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev plugin"/></a>
-  <a href="mailto:khaled-hossam@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+  <a href="mailto:khaled@khaledhossameldin.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logoColor=white" alt="Email"/></a>
   <!-- Uncomment when live:
   <a href="https://khaledhossameldin.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   -->
