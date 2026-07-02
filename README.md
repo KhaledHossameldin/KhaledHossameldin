@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khaled-hossameldin-6207a3a6/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=680&height=55&lines=Senior+Mobile+Engineer+-+Flutter+(5%2B+yrs);Building+toward+Platform+and+DevOps;Ships+the+apps+-+and+the+pipelines+that+deliver+them" alt="Senior Mobile Engineer, Flutter 5+ yrs, building toward Platform / DevOps"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=700&height=55&lines=Senior+Mobile+Engineer+-+Flutter+(5%2B+yrs);Building+toward+Platform+and+DevOps;Ships+the+apps+-+and+the+pipelines+that+deliver+them" alt="Senior Mobile Engineer, Flutter 5+ yrs, building toward Platform / DevOps"/>
   </a>
 </p>
 
